@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: kansowi.github.io
-Token: 95ea93ed22f2b6ccbb091721ea7a1d2616f9b395fff04bb0aa138b273fef2273
